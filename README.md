@@ -1,5 +1,7 @@
  🛠️ Guía de Uso: Plantilla Genérica de Consultas (GenericSpecifications)
 
+ No es 100% exclusivo de Spring Boot, pero sí que depende intrínsecamente del ecosistema de Spring Data JPA y Hibernate / JPA Criteria API.
+
  <img width="1789" height="635" alt="image" src="https://github.com/user-attachments/assets/6d4a0415-fc85-4643-bb4b-09344d3eadd7" />
 
 
